@@ -17,7 +17,7 @@ public class Application {
 
         order1.addLemonade(new Lemonade(1, 1, 1, 5));
         order1.addLemonade(new Lemonade(1.5, 1, 1, 7));
-        order1.addLemonade(new Lemonade(2, 1, 2, 9));
+        order1.addLemonade(new Lemonade(1.5, 1, 2, 9));
         order1.addLemonade(new Lemonade(2, 1.5, 1.5, 10));
         order1.addLemonade(new Lemonade(2.5, 1.5, 2.5, 12));
 
